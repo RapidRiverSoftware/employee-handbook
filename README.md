@@ -2,34 +2,34 @@
 
 This handbook covers various aspects of work at Rapid River:
 
-  * [Overview](#overview)
-    * [Mission](#mission)
-    * [Motto](#motto)
-    * [Founder](#founder)
-    * [Management Staff](#management-staff)
-    * [Notable clients](#notable-clients)
-  * [Working life](#working-life)
-    * [Working remotely](#working-remotely)
-    * [Hours](#hours)
-    * [Vacation policy](#vacation-policy)
-    * [Sick leave](#sick-leave)
-    * [On-call](#on-call)
-  * [Communication](#communication)
-    * [Etiquette](#etiquette)
-    * [Email](#email)
-    * [Slack](#slack)
-  * [Security](#security)
-    * [Physical space](#physical-space)
-    * [Computers](#computers)
-    * [Passwords](#passwords)
-    * [Network security](#network-security)
-    * [Other devices](#other-devices)
-    * [Encryption at rest](#encryption-at-rest)
-    * [Proprietary and client data](#proprietary-and-client-data)
-    * [Training](#training)
-    * [Responses to security incidents](#responses-to-security-incidents)
-  * [Feedback and improvements](#feedback-and-improvements)
-    * [Source of this document](#source-of-this-document)
+* [Overview](#overview)
+  * [Mission](#mission)
+  * [Motto](#motto)
+  * [Founder](#founder)
+  * [Management Staff](#management-staff)
+  * [Notable clients](#notable-clients)
+* [Working life](#working-life)
+  * [Working remotely](#working-remotely)
+  * [Hours](#hours)
+  * [Vacation policy](#vacation-policy)
+  * [Sick leave](#sick-leave)
+  * [On-call](#on-call)
+* [Communication](#communication)
+  * [Etiquette](#etiquette)
+  * [Email](#email)
+  * [Slack](#slack)
+* [Security](#security)
+  * [Physical space](#physical-space)
+  * [Computers](#computers)
+  * [Passwords](#passwords)
+  * [Network security](#network-security)
+  * [Other devices](#other-devices)
+  * [Encryption at rest](#encryption-at-rest)
+  * [Proprietary and client data](#proprietary-and-client-data)
+  * [Training](#training)
+  * [Responses to security incidents](#responses-to-security-incidents)
+* [Feedback and improvements](#feedback-and-improvements)
+  * [Source of this document](#source-of-this-document)
 
 ## Overview
 
@@ -150,7 +150,7 @@ Everyone at Rapid River is invited to join the [Rapid River Slack](https://rapid
   * `#devops`: Things of interest to practitioners of the dark DevOps magic.
   * `#farside`: The [best comic strip](https://www.thefarside.com/) ever.
 * Use [Slack threading](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) to stay on topic. This is a major thing! It's a lot easier to read a channel when discussions get moved into threads for a follow-up conversation.
-* Emojis can be an effective way to express approval, surprise, joy, etc. instead of messages. Like threads, that reduces clutter in the channel and keep communication flowing
+* Emojis can be an effective way to express approval, surprise, joy, etc. instead of messages. Like threads, they reduce clutter in the channel and keep communication flowing.
 * If you want to create a new channel (and you're not a single-channel guest), do it! But first check to make sure that it's not a duplicate of one of the existing channels, please.
 
 ## Security
