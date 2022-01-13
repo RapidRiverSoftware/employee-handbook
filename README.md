@@ -2,7 +2,6 @@
 
 This handbook covers various aspects of work at Rapid River:
 
-* [Rapid River Software Employee Handbook](#rapid-river-software-employee-handbook)
   * [Overview](#overview)
     * [Mission](#mission)
     * [Motto](#motto)
@@ -89,15 +88,15 @@ At the end of the day, the metric of success at Rapid River is: did you get the 
 
 In general, the goal for full-time work at Rapid River is eight working hours per day, not counting breaks for meals, rest, etc. Some days it will be more than that; some days it will be less. If you find that you're consistently working a lot more than eight hours per day, you may be headed toward burn-out. Talk with your manager so that we can help you achieve a more balanced and sustainable schedule.
 
-Rapid Riverers work worldwide, which means that your hours may need to start earlier or (in more cases) go later than a traditional office job. Accommodate this in your daily schedule as much as possible by taking time for yourself during slow periods to get up, stretch, go for a walk, get outside, etc. If you live with family or other loved ones, take time to be with them * they need you.
+Rapid Riverers work worldwide, which means that your hours may need to start earlier or (in more cases) go later than a traditional office job. Accommodate this in your daily schedule as much as possible by taking time for yourself during slow periods to get up, stretch, go for a walk, get outside, etc. If you live with family or other loved ones, take time to be with them - they need you.
 
 ### Vacation policy
 
 Vacation policy at Rapid River is handled by separate policies: one for full-time employees and one for contractors.
 
-Full-time employees are granted a fixed amount of personal time off (PTO) each calendar year in addition to federal and local holidays. PTO may be taken by informing your manager and receiving approval, in advance. You do not need to receive approval to take federal or local holidays approved by your local Employer of Record (EOR), but you are expected to inform your manager and your team ahead of time about your absence.
+Full-time employees are granted a fixed amount of personal time off (PTO) each calendar year in addition to federal and local holidays. PTO may be taken by informing your manager, and receiving approval, in advance. You do not need to receive approval to take federal or local holidays approved by your local Employer of Record (EOR), but you are expected to inform your manager and your team ahead of time about your absence.
 
-Contractors, on the other hand, are paid for the hours they work. They may take unpaid time off by informing their manager and receiving approval, in advance. This includes federal and local holidays. In all cases, please inform your manager and your team ahead of time about your absence.
+Contractors, on the other hand, are paid for the hours they work. They may take unpaid time off by informing their manager, and receiving approval, in advance. This includes federal and local holidays. In all cases, please inform your manager and your team ahead of time about your absence.
 
 ### Sick leave
 
@@ -156,7 +155,7 @@ Everyone at Rapid River is invited to join the [Rapid River Slack](https://rapid
 
 ## Security
 
-Rapid River is in the business of building and maintaining systems that typically contain sensitive data. That sensitive data often belongs either to our clients or to their customers. As such, all Rapid Riverers must understand and follow proper security procedures when performing their work or when in possession of devices that can be used to access sensitive software, data, networks, or systems.
+Rapid River is in the business of building and maintaining systems that typically contain sensitive data. That sensitive data often belongs either to our clients or to their customers. As such, it is absolutely critical that all Rapid Riverers understand and follow proper security procedures when performing their work or when in possession of devices that can be used to access sensitive software, data, networks, or systems.
 
 ### Physical space
 
@@ -168,7 +167,7 @@ If you work in an office, any space where you will leave behind computer or netw
 
 ### Computers
 
-If you are working for Rapid River on your computing equipment, it must run one of the following operating systems:
+If you are working for Rapid River on your own computing equipment, it must run one of the following operating systems:
 
 * Windows 11 or later
 * OS X 12.1 or later
@@ -177,7 +176,7 @@ If you are working for Rapid River on your computing equipment, it must run one 
 
 You must configure your computer to apply critical patches from your operating system vendor within 30 days of their release.
 
-Your computing devices should include software to automatically scan for viruses and malware using an up-to-date virus and malware signatures. Your computing devices should also employ a software firewall in addition to any local hardware or enterprise firewalls you may have configured.
+Your computing devices should include software to automatically scan for viruses and malware using up-to-date virus and malware signatures. Your computing devices should also employ a software firewall in addition to any local hardware or enterprise firewalls you may have configured.
 
 Your computer must also be configured to lock its screen when you stop working, close the laptop lid, or otherwise disengage from the computer. The screen lock should require a password set following the [Passwords](#passwords) policies described below.
 
@@ -205,7 +204,7 @@ Whether you work from home or in an office, we need the network on which you wor
 * Default SSIDs must be changed from vendor default to something unique.
 * We prefer you to configure guest WiFi features on your router if it supports it.
 
-In addition, work with our client(s) will likely occur over VPN connections to our client's networks. Only devices meeting the criteria in this handbook, and used for approved Rapid River work, should be connected to such VPN connections. VPN connections should not be shared or routable on your network.
+In addition, work with our client(s) will likely occur over VPN connections to our clients' networks. Only devices meeting the criteria in this handbook, and used for approved Rapid River work, should be connected to such VPN connections. VPN connections should not be shared or routable on your network.
 
 ### Other devices
 
