@@ -193,6 +193,12 @@ All passwords used for your computing devices, Rapid River resources (such as em
 
 We strongly suggest using a password locker such as [LastPass](https://lastpass.com) or [1Password](https://1password.com/) to simplify the management and rotation of passwords to comply with the requirements listed above.
 
+### Multi-factor authentication (2FA)
+
+Enalbing 2FA for various accounts related to Rapid River is mandatory. For example for your Rapid River email account you are required to enable _2-Step Verification_ in your gmail account management page.
+
+Same goes for other accounts which are connected to our workplace.
+
 ### Network security
 
 Whether you work from home or in an office, we need the network on which you work to be secure. For that reason:
