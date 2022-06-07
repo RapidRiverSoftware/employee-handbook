@@ -57,7 +57,6 @@ Fun fact: Nick's daughter [Julia Marden](https://github.com/gregariouspanda) lea
 
 * [Nick Marden](https://www.linkedin.com/in/nick-marden-591326/) (USA): Founder and CEO
 * [Adrienne Marden](https://www.linkedin.com/in/adrienne-marden-a470a119/) (USA): Human Resources Director
-* [Kaveh Mousavi Zamani](https://www.linkedin.com/in/kavehmz/) (Germany): Director of Engineering
 
 ### Notable clients
 
